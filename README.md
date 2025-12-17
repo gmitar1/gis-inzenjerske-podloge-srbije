@@ -60,7 +60,7 @@ Proširenja koje su predviđena za dodavanje u sledećem izdanju:
 
 ## Komentari
 
- - AI (veštačka inteligencija) nije pri izradi ovih podloga, sve je "ručni rad"
+ - AI (veštačka inteligencija) nije korišćena pri izradi ovih podloga, sve je "ručni rad" i tako će ostati.
  - Većina podloga nema podatke na teritoriji Kosova i Metohije. Ako uspem da nađem prošireni osmatrački sistem za KiM dodaću.
 
 ## Kontakt
