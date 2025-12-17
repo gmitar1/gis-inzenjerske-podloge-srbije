@@ -65,5 +65,5 @@ Proširenja koje su predviđena za dodavanje u sledećem izdanju:
 
 ## Kontakt
 
-Svako ko je zainteresovan da predloži, ukaže na grešku ili nejasnoću neka se slobodni javi na [LinkedIn](https://www.linkedin.com/in/aleksandar-mitrovic/) ili na <img width="177" height="20" alt="Image" src="https://github.com/user-attachments/assets/64304c13-cbab-4e48-be6d-2ca85e0aac4c" />
+Svako ko je zainteresovan da predloži, ukaže na grešku ili nejasnoću neka se slobodno javi na [LinkedIn](https://www.linkedin.com/in/aleksandar-mitrovic/) ili na <img width="177" height="20" alt="Image" src="https://github.com/user-attachments/assets/64304c13-cbab-4e48-be6d-2ca85e0aac4c" />
    
