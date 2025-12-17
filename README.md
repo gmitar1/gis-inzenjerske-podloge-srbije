@@ -1,22 +1,21 @@
-### Digitalizovane inženjerske podloge Republike Srbije 
+## Digitalizovane inženjerske podloge Republike Srbije 
 
-Ovaj repo sadrži katalog raznih inženjerskih podloga, prvobitno namenjenih za sveobuhvatnu analizu životne sredine u Republici Srbiji, u lične svrhe.
-Projekat čeka neka lepša vremena, katalog podloga, međutim, ih ne mora čekati i ovim putem ga obelodanjujem svima zainteresovanim na raspolaganje. Bilo kakav tim upotrebe, lični ili komercijalni je dozvoljen.
-U slučaju komercijalne upotrebe - ne garantujem tačnost podataka i odluke donositi na sopstveni rizik.
+Ovaj repo sadrži katalog raznih inženjerskih podloga (hidrološke i geološke) kao i bazu podataka mernih vrednosti osmatračkog sistema (meteorološki, hidrološki, kvalitet vode) prvobitno namenjene za hobi projekat sveobuhvatne analize životne sredine u Republici Srbiji. Taj projekat trenutno čeka neka lepša vremena.
+Međutim, nema razloga da katalog podloga stoji neiskorišćen kad je već ogroman broj sati uložen u njega a ovim putem ga obelodanjujem svim zainteresovanima. Bilo kakva vrsta upotrebe, lična ili komercijalna je dozvoljena (licenca CC0), doduše u slučaju upotrebe u komercijalne svrhe ove podatke koristiti na sopstveni rizik.
 
-Podržavam sve inicijative otvorenog koda i otvorenih podataka i smatram da ovakvi podaci moraju biti javno dostupni u upotrebljivom formatu svim zainteresovanim građanima. 
-Tlo ispod nas, vazduh koji dišemo i vodu koju pijemo na prvom mestu u vlasništvu je prirode pa zatim naroda, a ne "države", zavoda ili kojekakve korporacije.
-Nadahnut prethodnim ovim putem bih pozvao sve stručnjake, entuzijaste i studente nauka koji se bave životnom sredinom ili inženjerstvom uopšte da se udruže, otvore i podele sve svoje projekte i doprinesu društvu u potrazi za otvorenim podacima.
-Savršen epilog bi bio formiranje digitalne komunalne biblioteke otvorenih podataka (podloga, skupova, analiza, itd.) za teritoriju Republike Srbije. [Portal otvorenih podataka](https://data.gov.rs/sr/) postoji, 
-međutim to je sve samo ne komunalna razmena podataka jer ga održava kancelarija za IT i eUpravu ili ko god već.
+Do sada je verovatno jasno da podržavam sve inicijative otvorenih podataka i koda a po mom mišljenju podaci ovakve prirode bi trebalo da budu dostupni svim građanima, u formatu upotrebljivom za obradu. Pozvao bih sve studente, stručnjake, organizacije i hobiste koji se bave zaštitom životne sredine, inženjerstvom ili naukom uopšte da se udruže, otvore i javno podele sve svoje projekte i doprinesu društvu u potrazi za otvorenim i besplatnim znanjem. "Open-source" i "community-driven" načini razmišljanja široko su prisutni u IT zajednici i smatram da je vreme da se to proširi i na druge grane.
 
-Sam projekat je organizovan kao QGIS projekat i sastoji se od 3 datoteke:
+## Sadržaj kataloga
+
+Katalog je organizovan kao QGIS projekat i sastoji se od 3 datoteke:
 
  - **project.qgz** (glavna projektna datoteka koja se učitava u QGIS)
  - **data.sqlite** (SQLite baza podataka u kojoj je smeštena geometrija kao i svi drugi podaci)
  - **data.qmd** (metapodaci, možda i nije potrebna datoteka, ispitaću pa ću skloniti ako nije)
 
-Katalog trenutno sadrži sledeće podloge:
+*U slučaju da niste upoznati sa [QGIS-om](https://qgis.org/) to je "open-source" zamena za ArcGIS, postoji izdanje za Windows, Linux i Mac a toplo je preporučujem. Ove datoteke verovatno neće moći neposredno da se otvore u ArcGIS-u pa ako bude nekih problema mogu napraviti i izdanje zasnovano na .shp (shapefile) datotekama (ili jednostavno možete pružiti šansu QGIS-u :-D).*
+
+U katalogu trenutno se nalaze sledeće podloge:
 
  - **Površinske vode**
    - Mreža rečnih tokova i slivna područja za velike i srednje reke prema [klasifikaciji RHMZ-a](https://www.hidmet.gov.rs/ciril/hidrologija/povrsinske/index.php)
